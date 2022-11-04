@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Твій чат</string>
+    <string name="editTextMessage">Повідомлення...</string>
+    <string name="main_menu_sign_out">Вийти з облікового запису</string>
+    <string name="register_enter_your_email">Введіть свій email</string>
+    <string name="register_enter_your_password">Введіть свій пароль</string>
+    <string name="register">Реєстрація</string>
+    <string name="register_have_account">Маю аккаунт</string>
+    <string name="massage_my_pictures_in_message">Зображення в повідомлені</string>
+</resources>

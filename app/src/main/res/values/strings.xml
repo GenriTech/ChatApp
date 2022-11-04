@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="editTextMessage">Message...</string>
+    <string name="main_menu_sign_out">Sign out</string>
+    <string name="register_enter_your_email">Enter your email:</string>
+    <string name="register_enter_your_password">Enter your password</string>
+    <string name="register">Register</string>
+    <string name="register_have_account">Have account</string>
+    <string name="massage_my_pictures_in_message">Pictures in message</string>
+</resources>

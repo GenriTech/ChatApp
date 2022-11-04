@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="field">#18191D</color>
+    <color name="top_n">#3A4047</color>
+    <color name="action">#282E33</color>
+    <color name="text_message">#FFFFFFFF</color>
+    <color name="field_message">#2A2F33</color>
+    <color name="edit_text_field">#282E33</color>
+    <color name="edit_text_message">#FFFFFFFF</color>
+    <color name="edit_text_hint">#5D6165</color>
+</resources>

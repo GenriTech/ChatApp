@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="editTextMessage">Message...</string>
+    <string name="main_menu_sign_out">Sign out</string>
+    <string name="register_enter_your_email">Enter your email:</string>
+</resources>
